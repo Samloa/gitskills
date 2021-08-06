@@ -1,3 +1,0 @@
-hu zhun ssh
-yqc qyc
-rename master
